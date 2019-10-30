@@ -1,0 +1,8 @@
+.required{
+    color: red;
+}
+
+.flexRight{
+    display: flex;
+    justify-content: flex-end;   
+}

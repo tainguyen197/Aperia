@@ -1,0 +1,11 @@
+.action{
+    padding: 0 0!important;
+    border: none !important;
+    cursor: pointer;
+    color: blue;
+    text-decoration-line: underline;
+}
+
+.employeeListTable{
+    margin-top: 40px;
+}
